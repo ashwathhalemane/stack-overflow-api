@@ -1,0 +1,15 @@
+{
+  "name": "stack-overflow-api",
+  "version": "1.0.0",
+  "description": "API which is similar to Stack-overflow, replicating its upvote, downvote functionality of answers to questions. Auth is not yet implemented.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ashwath.halemane",
+  "license": "ISC",
+  "dependencies": {
+    "morgan": "^1.9.1",
+    "nodemon": "^1.19.1"
+  }
+}
